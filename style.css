@@ -1,0 +1,72 @@
+header img {
+	width: 60px;
+    height: 60px;
+}
+body {
+      
+    background-size: cover;
+    font-family: sans-serif;
+}
+main {
+    color: white;
+}
+
+
+.my-image{
+	width:10%;
+}
+.name{
+	text-align : center;
+	padding-top:20px;
+	vertical-align: middle;
+	color: white;
+	width: 90%;
+}
+
+
+header {
+    background-color: steelblue;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+	box-shadow: 0 0 25px 0 black;
+	display: Brac university;
+	
+}
+
+
+header div{
+	float:left;
+}
+
+header li a {
+    color: black;
+    text-decoration: none;
+}
+
+#profile{
+	margin-top: 70px;
+	
+}
+
+#hobby{
+	margin-top: 30px;
+	
+}
+
+
+#link{
+	margin-top: 30px;
+	
+}
+
+.section{
+	border: 1px solid blue;	
+}
+
+.heading{
+	border-bottom: 1px solid black;
+	text-align: center;
+}
